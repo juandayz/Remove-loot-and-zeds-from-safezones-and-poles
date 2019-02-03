@@ -1,5 +1,7 @@
 # Remove-loot-and-zeds-from-safezones-and-poles
 
+PLEASE DONATE: https://github.com/juandayz/Remove-loot-and-zeds-from-safezones-and-poles/blob/master/DONATION.md
+
 1-Open your custom compiles.sqf and into !dedicated section paste this call. 
 
 ```ruby
